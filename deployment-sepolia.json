@@ -1,0 +1,10 @@
+{
+  "network": "sepolia",
+  "deployer": "0xDb4F1cc09b586DA85f2Fe591f3E74e7B3CC510b6",
+  "poseidon": "0xd78c771e8Ee91cb4E399e8505fcE9FEdf06F5140",
+  "pool": "0xFAEEaBB19b6851ef9E1a943d0c545e8e0b29558c",
+  "treeDepth": 10,
+  "blockNumber": 9532100,
+  "timestamp": "2025-10-31T19:25:13.562Z",
+  "supportsTokens": true
+}
