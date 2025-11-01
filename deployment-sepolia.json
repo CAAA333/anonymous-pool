@@ -1,10 +1,10 @@
 {
   "network": "sepolia",
   "deployer": "0xDb4F1cc09b586DA85f2Fe591f3E74e7B3CC510b6",
-  "poseidon": "0xd78c771e8Ee91cb4E399e8505fcE9FEdf06F5140",
-  "pool": "0xFAEEaBB19b6851ef9E1a943d0c545e8e0b29558c",
+  "poseidon": "0x6EAD9e99E94bEDc26488B5c1d984cD83ecf6B917",
+  "pool": "0xB4bc248dCE51D479b8DF381FC716B74D10DfE14D",
   "treeDepth": 10,
-  "blockNumber": 9532100,
-  "timestamp": "2025-10-31T19:25:13.562Z",
+  "blockNumber": 9533026,
+  "timestamp": "2025-10-31T22:30:49.054Z",
   "supportsTokens": true
 }

@@ -7,7 +7,8 @@ import AnonymousDeposit from './components/AnonymousDeposit'
 import AnonymousWithdrawal from './components/AnonymousWithdrawal'
 
 // Pool contract address with token withdrawal support
-const POOL_ADDRESS = '0xFAEEaBB19b6851ef9E1a943d0c545e8e0b29558c' // New pool with token support
+const POOL_ADDRESS = '0xB4bc248dCE51D479b8DF381FC716B74D10DfE14D'
+//'0xFAEEaBB19b6851ef9E1a943d0c545e8e0b29558c' // New pool with token support
 // Old pool (no token withdrawals): 0x1ABEaa5730eA066e9F6FbD972e2Abf74B5D52AcF
 
 function App() {

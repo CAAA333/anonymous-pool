@@ -11,15 +11,15 @@
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.1.0",
-    "@nomicfoundation/hardhat-ethers": "^4.0.2",
+    "@nomicfoundation/hardhat-ethers": "^3.1.0",
     "@nomicfoundation/hardhat-toolbox": "^6.1.0",
-    "@nomicfoundation/hardhat-verify": "^3.0.4",
+    "@nomicfoundation/hardhat-verify": "^2.1.0",
     "chai": "^4.4.1",
     "dotenv": "^17.2.3",
     "ds-test": "github:dapphub/ds-test",
     "ethers": "^6.15.0",
     "forge-std": "^1.1.2",
-    "hardhat": "^3.0.10",
+    "hardhat": "^2.26.0",
     "mocha": "^11.7.4"
   },
   "dependencies": {

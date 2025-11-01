@@ -19,6 +19,7 @@ The Anonymous Pool enables private transactions using:
 - Node.js 18+
 - MetaMask or compatible Web3 wallet
 - Sepolia testnet ETH (for testing)
+- Hardhat 2.26.0 (the project uses Hardhat 2.x, not Hardhat 3.x)
 
 ### Installation
 
